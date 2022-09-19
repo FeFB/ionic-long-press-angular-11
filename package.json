@@ -13,7 +13,7 @@
     "build": "ng-packagr -p package.json"
   },
   "peerDependencies": {
-    "@angular/core": "12.x",
+    "@angular/core": "11.x",
     "@ionic/angular": "5.x",
     "@types/hammerjs": "2.x",
     "hammerjs": "2.x"
